@@ -1,0 +1,7 @@
+title = "TOML Example"
+
+[owner]
+name = "Some Guy"
+org = "Some Org"
+bio = "Really interesting guy, you'd love to have a coffee with him"
+dob = 1979-05-08T03:44:00Z

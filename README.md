@@ -1,3 +1,9 @@
 # Webpack Getting Started Guide
 
-Following [the guide](https://webpack.js.org/guides/getting-started/)
+Following [this guide](https://webpack.js.org/guides/getting-started/)
+
+## Steps 
+
+1. `cp index.html dist/`
+2. `npm run build`
+3. voila
